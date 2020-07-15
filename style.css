@@ -1,0 +1,43 @@
+body{
+    font-family: Poppins
+}
+.nav-link{
+    color: black;
+    font-size: 16px;
+}
+.sign-in{
+    background-color: #21B573;
+    color: white !important;
+    border-radius: 25px !important;
+    padding: 12px 28px !important;
+    border: none;
+}
+nav{
+    background-color: #F0FFF0;
+}
+.red-highlight{
+    color: #FD511A;
+}
+.green-highlight{
+    color: #21B573;
+}
+.size h1{
+    font-weight: bolder;
+    font-size: 48px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.container{
+    margin-bottom: 100px;
+}
+.col-md-7 img{
+    width: 100%;
+}
+.card-img-top{
+    width: 125px;
+}
+#size-of-image{
+    width: 100px;
+}

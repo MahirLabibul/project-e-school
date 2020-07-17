@@ -63,3 +63,22 @@ nav{
     background-color: white;
     border: none;
 }
+.testimonial{
+    padding: 50px 50px 50px 50px;
+}
+.testimonial p{
+    text-align: justify;
+}
+.ending{
+    background-color: #282531;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.ending ul{
+    list-style-type: none;
+}
+li{
+    margin-left: 0px;
+    padding-left: 0px;
+}
